@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Beranek
 
-Im currently a freshman at Auburn University studying Software Engineering
+Im currently a sophomore at Auburn University studying Software Engineering
 
 Language Experiences:
 - Java
