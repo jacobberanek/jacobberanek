@@ -2,7 +2,7 @@
 
 Im currently a sophomore at Auburn University studying Software Engineering
 
-I am interested in software development, and have been looking into AI recently as it also seems interesting.
+I am interested in software development, not sure what concentration yet, but some sort of app development and/or website development most likely, I have also been looking into AI recently as it also seems interesting.
 I am planning on teaching myself javascript at some point and as well as get familiarized with libraries such as React, aswell as get familiar with basic API's.
 
 Language Experiences:
