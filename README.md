@@ -1,14 +1,14 @@
 # Hi, I'm Jacob Beranek 🦅
-### Senior Software Engineering Student @ Auburn University 
-*Focusing on Full-Stack Development & AI Integration*
+### Software Engineering Student @ Auburn University
 
-I am a Senior Software Engineering student bridging the gap between traditional system architecture and Artificial Intelligence. I am currently developing a **Price-Tracker**, a price engine for steam designed to move from simple data collection to predictive analytics.
+I’m a Software Engineering student with a strong foundation in backend development, databases, and systems-oriented programming. I enjoy building practical projects that involve clean design, structured data, and real-world constraints.
 
-- 🎓 **Graduate Coursework:** [COMP-6600 Artificial Intelligence], [COMP-6130 Data Mining]
-- 🛠 **Languages:** Java, C++, Python
-- 🚀 **Current Project:** Price-Tracker (Price tracking for Steam (more vendors in the future planned))
+Currently, I’m working on a **Video Game Price Tracker**, a backend-focused project that collects and stores pricing data from external APIs with the goal of supporting additional vendors over time.
 
-<!---
-jacobberanek/jacobberanek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 **Coursework:** Artificial Intelligence (COMP-6600), Data Mining (COMP-6130) *(in progress)*
+- 🛠 **Languages:** Java, Python, C/C++, SQL
+- 🧰 **Technologies:** FastAPI, SQLAlchemy, SQLite, Git, Linux
+- 🚀 **Current Project:** Video Game Price Tracker (Steam API integration, extensible backend design)
+
+I’m particularly interested in backend software engineering and building systems that are maintainable, extensible, and well-structured.
+
